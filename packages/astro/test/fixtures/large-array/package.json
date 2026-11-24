@@ -1,0 +1,11 @@
+{
+  "name": "@test/large-array-solid",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@astrojs/solid-js": "workspace:*",
+    "@solidjs/web": "^2.0.0",
+    "astro": "workspace:*",
+    "solid-js": "^2.0.0"
+  }
+}

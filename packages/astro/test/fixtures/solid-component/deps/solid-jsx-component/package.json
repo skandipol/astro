@@ -1,0 +1,16 @@
+{
+  "name": "@test/solid-jsx-component",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "solid": "./index.js",
+      "default": "./index.js"
+    }
+  },
+  "dependencies": {
+    "@solidjs/web": "^2.0.0",
+    "solid-js": "^2.0.0"
+  }
+}
